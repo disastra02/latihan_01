@@ -1,1 +1,2 @@
 Jadi ini adalah file yang isinya tentang testing, yang dimana didalamnya berisikan file yang bertuliskan testing. Kemudian ditambahkan lagi kata katanya dengan testing baru.
+Ini baris line kedua dari file testing.txt
